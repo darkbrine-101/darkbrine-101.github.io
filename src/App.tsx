@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 import styles from './App.module.css'
 
 import BG from './components/BG/BG';
@@ -6,12 +6,10 @@ import MenuBar from './components/MenuBar/MenuBar';
 import MenuButton from './components/MenuButton/MenuButton';
 import Nothing from './components/Nothing/Nothing';
 import ScrollingBars from './components/ScollingBars/ScrollingBars';
-import TextBG from './components/TextBG/TextBG';
 import AboutMe from './components/MainPages/AboutMe/AboutMe';
 import Contact from './components/MainPages/Contact/Contact';
 import Comissions from './components/MainPages/Comissions/Comissions';
 import Portfolio from './components/MainPages/Portfolio/Portfolio';
-import { warn } from 'console';
 interface Props {
 
 }
