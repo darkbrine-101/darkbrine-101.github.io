@@ -1,0 +1,14 @@
+.Main {
+
+    width:100%;
+    height:100%;
+    position:page;
+}
+header, p {
+    font-family: VCR OSD Mono;
+}
+
+@font-face {
+    font-family: VCR OSD Mono;
+    src: url(./Assets/VCR_OSD_MONO.ttf) format("ttf");
+}

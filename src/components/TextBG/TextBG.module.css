@@ -1,0 +1,24 @@
+.Outer {
+    display: table;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.Middle {
+    display: table-cell;
+}
+
+.TextBG {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: #c3c3c3;
+    text-align: center;
+    border-color: #000000;
+    border-width: 2.5px;
+    border-style: outset;
+    box-sizing: border-box;
+    padding: 30px
+}

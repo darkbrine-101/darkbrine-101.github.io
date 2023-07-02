@@ -1,0 +1,25 @@
+@keyframes ScrollingBars {
+	0% {
+		background-position: 0% 0px;
+	}
+
+	100% {
+		background-position: 0% 50px;
+	}
+}
+.ScreenBars {
+	background: linear-gradient( #e9070738 0px, #e9070714 5px);
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0%;
+	pointer-events: none;
+	background-size: 100% 10px;
+	background-repeat: repeat;
+	position: fixed;
+	animation: ScrollingBars;
+	animation-iteration-count: infinite;
+	animation-duration: 0.25s;
+	animation-timing-function: linear;
+	z-index: 100;
+}

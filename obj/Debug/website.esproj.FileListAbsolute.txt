@@ -1,0 +1,2 @@
+C:\Users\Darkbrine\Documents\website\website\obj\Debug\website.esproj.SuggestedBindingRedirects.cache
+C:\Users\Darkbrine\Documents\website\website\obj\Debug\website.esproj.CoreCompileInputs.cache
