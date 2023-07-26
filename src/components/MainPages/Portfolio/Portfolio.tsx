@@ -7,7 +7,7 @@ function Portfolio() {
       <TextBG>
           <h1><u className={styles.Title }>PORTFOLIO</u>
           </h1>
-          <p>
+          <p className={styles.Text }>Under construction, please come back later.
           </p>
       </TextBG>
   );
