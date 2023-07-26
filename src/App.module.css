@@ -9,6 +9,6 @@ header, p {
 }
 
 @font-face {
-    font-family: VCR OSD Mono;
-    src: url(./Assets/VCR_OSD_MONO.ttf) format("ttf");
+    font-family: "VCR OSD Mono";
+    src: local("VCR OCD Mono"), url('fonts/VCR OSD mono.ttf'), format('truetype');
 }

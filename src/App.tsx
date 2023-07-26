@@ -18,6 +18,15 @@ interface State {
 	voided: Boolean
 }
 
+const ColourPallet = [ 
+	"#818181",
+	"#c3c3c3 ",
+	"#fdffff ",
+	"#010081",
+	"#008080",
+	"#000000",
+	"#ff0081 "
+]
 class App extends React.Component<Props, State>{
 
 	AboutMeClickCount: number;

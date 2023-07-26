@@ -1,8 +1,26 @@
 .Title {
 	font-size: 60px;
 }
-p{
-	font-size:20px;
-	text-align:left;
+.Subtitle {
+	font-size: 40px;
 	
+}
+.Text {
+	font-size: 30px;
+
+}
+.AudioContainer{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+
+}
+.AudioAndText {
+	display: flex;
+	flex-direction: row;
+	
+}
+.Audio{
+	align-self:center;
+	padding:10px;	
 }

@@ -14,6 +14,7 @@
   <ItemGroup>
     <Folder Include="src\components\MainPages\AboutMe\" />
     <Folder Include="src\components\ScollingBars\" />
+    <Folder Include="src\components\ProgressBar\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="README.md" />
